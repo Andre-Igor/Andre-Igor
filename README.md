@@ -1,5 +1,4 @@
 # Olá, eu chamo André! 👋
-![Snake animation](https://github.com/Andre-Igor/Andre-Igor/blob/output/github-contribution-grid-snake.svg)
 Estou no segundo período em Sistemas de Informação.
 Gosto de poder ajudar as pessoas e resolver problemas, minha motivação é atuar na área de tecnologia de forma ampla,
 contribuindo em projetos, equipes e soluções reais, não só como profissional, mas onde eu possa aprender e gerar impacto.
