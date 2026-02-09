@@ -1,4 +1,4 @@
-# Olá, eu chamo André! 👋
+# Olá, eu chamo me André! 👋
 Estou no segundo período em Sistemas de Informação.
 Gosto de poder ajudar as pessoas e resolver problemas, minha motivação é atuar na área de tecnologia de forma ampla,
 contribuindo em projetos, equipes e soluções reais, não só como profissional, mas onde eu possa aprender e gerar impacto.
